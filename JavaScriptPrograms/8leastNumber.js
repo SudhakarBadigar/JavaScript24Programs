@@ -1,9 +1,9 @@
-let a = 5;
-let b = 10;
+let a = 52;
+let b = 15;
 if(a > b)
 {
-    console.log("the highest number is" + a);
+    console.log("the least number is: " + b);
 }
 else {
-    console.log("the least number is "+ b);
+    console.log("the least number is: "+ a);
 }
